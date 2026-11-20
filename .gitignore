@@ -1,0 +1,14 @@
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Arduino / PlatformIO
+.pio/
+.vscode/
+*.bin
+*.elf
+*.hex
+
+# Archivos temporales de EasyEDA (por si usas la versión de escritorio)
+*.epw
+*.bak
